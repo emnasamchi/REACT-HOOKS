@@ -21,7 +21,7 @@ function App() {
   });
   return (
     <>
-      {" "}
+      { ""}
       <div ref={myRef}>initial content</div>
       <input onChange={UpdateInnerHTML} />
       <First/>{
